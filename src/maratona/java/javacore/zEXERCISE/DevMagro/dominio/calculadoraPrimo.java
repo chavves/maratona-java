@@ -1,4 +1,4 @@
-package maratona.java.javacore.EXERCISE.DevMagro.dominio;
+package maratona.java.javacore.zEXERCISE.DevMagro.dominio;
 
 public class calculadoraPrimo {
     public static boolean isPrimo(int valores) {

@@ -1,8 +1,8 @@
-package maratona.java.javacore.EXERCISE.DevMagro.Exe;
+package maratona.java.javacore.zEXERCISE.DevMagro.Exe;
 
 import java.util.Scanner;
 
-import static maratona.java.javacore.EXERCISE.DevMagro.dominio.calculadoraPrimo.isPrimo;
+import static maratona.java.javacore.zEXERCISE.DevMagro.dominio.calculadoraPrimo.isPrimo;
 
 public class calculadoraExe {
     public static void main(String[] args) {

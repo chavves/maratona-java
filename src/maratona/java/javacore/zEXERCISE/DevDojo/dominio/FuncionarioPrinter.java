@@ -1,4 +1,4 @@
-package maratona.java.javacore.EXERCISE.DevDojo.dominio;
+package maratona.java.javacore.zEXERCISE.DevDojo.dominio;
 
 public class FuncionarioPrinter {
     public void exibirDados(Funcionario funcionario) {

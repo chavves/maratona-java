@@ -1,7 +1,7 @@
-package maratona.java.javacore.EXERCISE.DevDojo.Exe;
+package maratona.java.javacore.zEXERCISE.DevDojo.Exe;
 
-import maratona.java.javacore.EXERCISE.DevDojo.dominio.Funcionario;
-import maratona.java.javacore.EXERCISE.DevDojo.dominio.FuncionarioPrinter;
+import maratona.java.javacore.zEXERCISE.DevDojo.dominio.Funcionario;
+import maratona.java.javacore.zEXERCISE.DevDojo.dominio.FuncionarioPrinter;
 
 
 public class FuncionarioExe {
