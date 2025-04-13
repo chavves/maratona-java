@@ -14,7 +14,7 @@ public class HerancaTest02 {
     // 7 - Cada atributo de subclasse é criado e inicializado com valores default ou o que for passado
     // 8 - Bloco de inicialização da subclasse é executado na ordem em que aparece
     // 9 - Construtor é executado da subclasse
-
+    
     public static void main(String[] args) {
         Funcionario funcionario = new Funcionario("Seu Madruga");
     }
